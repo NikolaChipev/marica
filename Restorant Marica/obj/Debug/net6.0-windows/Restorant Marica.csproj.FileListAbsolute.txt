@@ -1,0 +1,18 @@
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant_Marica.Form1.resources
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.AssemblyInfo.cs
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\bin\Debug\net6.0-windows\Restorant Marica.exe
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\bin\Debug\net6.0-windows\Restorant Marica.deps.json
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\bin\Debug\net6.0-windows\Restorant Marica.runtimeconfig.json
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\bin\Debug\net6.0-windows\Restorant Marica.dll
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\bin\Debug\net6.0-windows\Restorant Marica.pdb
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.dll
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\refint\Restorant Marica.dll
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.pdb
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant Marica.genruntimeconfig.cache
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\ref\Restorant Marica.dll
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant_Marica.Form2.resources
+C:\Users\STUDENTS-1209-2\source\repos\Restorant Marica\obj\Debug\net6.0-windows\Restorant_Marica.Properties.Resources.resources
